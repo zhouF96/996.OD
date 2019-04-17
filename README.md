@@ -6,6 +6,9 @@
 
 OD，英文Occupational Disease的缩写
 
+[![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu/#/en_US)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
 本文档记录由于用人单位长期违反劳动法加班，而导致的员工疾病或猝死情况，并侧重于记录慢性职业病、身体不适症状，以提醒广大劳动者，尤其是发起者程序员群体，在重病或猝死之前注意身体发出的信号，并及时调整工作强度，避免悲剧发生。
 
 相关法律
